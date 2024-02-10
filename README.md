@@ -1,6 +1,6 @@
-# gerenciador-salao
+# API Gerenciador Salão
 
-Esse projeto foi feito em Quarkus e visa criar um trecho do gerenciamento de um sistema de salão de beleza.
+Esse projeto foi feito em Quarkus e visa criar uma API para gerenciamento de um sistema de salão de beleza.
 
 Conheça o Quarkus: https://quarkus.io/ .
 
